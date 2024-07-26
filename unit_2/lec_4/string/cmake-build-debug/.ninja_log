@@ -1,0 +1,19 @@
+# ninja log v6
+519	1674	7436958053225610	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+1675	3021	7436958064779351	string.exe	4bc3e62ecbc7fb78
+8	217	7436959823109142	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+218	334	7436959825209441	string.exe	4bc3e62ecbc7fb78
+8	64	7436960419889007	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+64	135	7436960420457489	string.exe	4bc3e62ecbc7fb78
+8	64	7436961195382821	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+65	136	7436961195941321	string.exe	4bc3e62ecbc7fb78
+8	63	7436961648528047	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+63	134	7436961649076565	string.exe	4bc3e62ecbc7fb78
+9	190	7436962977848048	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+190	257	7436962979656038	string.exe	4bc3e62ecbc7fb78
+8	75	7436963194314253	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+75	145	7436963194982465	string.exe	4bc3e62ecbc7fb78
+9	225	7436967349684497	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+226	481	7436967351851573	string.exe	4bc3e62ecbc7fb78
+7	73	7436967733230506	CMakeFiles/string.dir/main.c.obj	6431c6dbae2fb8d8
+73	140	7436967733888747	string.exe	4bc3e62ecbc7fb78

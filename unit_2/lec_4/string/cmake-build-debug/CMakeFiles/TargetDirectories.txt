@@ -1,0 +1,3 @@
+D:/embeded/embedded deploma/Assignments/Embedded_System_Online_Diploma/unit_2/lec_4/string/cmake-build-debug/CMakeFiles/string.dir
+D:/embeded/embedded deploma/Assignments/Embedded_System_Online_Diploma/unit_2/lec_4/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/embeded/embedded deploma/Assignments/Embedded_System_Online_Diploma/unit_2/lec_4/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
